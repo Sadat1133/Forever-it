@@ -1,0 +1,39 @@
+@media (min-width:320px) and (max-width:576px){
+    .header-top {
+        display: none;
+    }
+    .banner-content h1 {
+        font-size: 33px;
+    }
+    .banner-content.text-center small {
+        letter-spacing: 1px;
+    }
+    .services-content {
+        margin-bottom: 60px;
+    }
+    .section-title {
+        width: 100%;
+        text-align: center;
+    }
+    .section-title h3 {
+        font-size: 28px;
+    }
+    .about-thumb img {
+        margin-top: 23px;
+    }
+    .single-service-items {
+        margin-bottom: 26px;
+    }
+    .single-testimonials p {
+        padding: 0;
+    }
+    .single-service-items {
+        margin-top: 17px;
+    }
+    .gallery-wrapp {
+        display: none;
+    }
+    .single-destination {
+        display: none;
+    }
+}
